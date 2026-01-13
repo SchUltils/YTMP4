@@ -1,5 +1,5 @@
 // --- REPLACE THIS WITH YOUR REPLIT APP URL ---
-const API_BASE = "https://YOUR-REPLIT-NAME.YOURNAME.repl.co";
+const API_BASE = "https://30047524-15d3-4672-bfac-8bf88fee153f-00-tm90bvmsvy9h.spock.replit.dev/";
 
 async function convert() {
   const url = document.getElementById("url").value.trim();
